@@ -200,7 +200,7 @@
                             <div class="form-floating mb-3">
                                 <input type="text" class="form-control" id="floatingTitle"
                                     placeholder="Title" required>
-                                <label for="floatingTitle">Title</label>
+                                <label for="floatingTitle">Title </label>
                             </div>
                             <div class="form-floating mb-3">
                                 <input type="text" class="form-control" id="floatingAmount" pattern="\d*"
