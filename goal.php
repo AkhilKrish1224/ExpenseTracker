@@ -64,10 +64,9 @@
                     </div>
                 </div> -->
                 <div class="navbar-nav w-100">
-                    <a href="#" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Dashboard</a>
                     <a href="goal.php" class="nav-item nav-link active"><i class="fa fa-tachometer-alt me-2"></i>Goal Planning</a>
                     <a href="expense.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Expense Tracker</a>
-                    <a href="#" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Budget Planning</a>
+                    <a href="budget.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Budget Planning</a>
                     <a href="lend.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Money Lending</a>
                     <a href="split.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Expense Splitting</a>
                     <!-- <div class="nav-item dropdown">

@@ -64,11 +64,11 @@
                     </div>
                 </div> -->
                 <div class="navbar-nav w-100">
-                    <a href="goal.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Goal Planning</a>
-                    <a href="expense.php" class="nav-item nav-link active"><i class="fa fa-tachometer-alt me-2"></i>Expense Tracker</a>
+                    <a href="goal.php" class="nav-item nav-link active"><i class="fa fa-tachometer-alt me-2"></i>Goal Planning</a>
+                    <a href="expense.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Expense Tracker</a>
                     <a href="budget.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Budget Planning</a>
-                    <a href="http://127.0.0.1:5500/block/src/index.html" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Money Lending</a>
-                    <a href="#" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Expense Splitting</a>
+                    <a href="lend.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Money Lending</a>
+                    <a href="split.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Expense Splitting</a>
                     <!-- <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"><i class="fa fa-laptop me-2"></i>Elements</a>
                         <div class="dropdown-menu bg-transparent border-0">
