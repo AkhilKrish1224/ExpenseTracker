@@ -62,13 +62,6 @@
                             <input name="log2" type="password" class="form-control" id="floatingPassword" placeholder="Password">
                             <label for="floatingPassword">Password</label>
                         </div>
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <!--<div class="form-check">
-                                <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                            </div>-->
-                            <a href="">Forgot Password</a>
-                        </div>
                         <button name="submit2" type="submit" class="btn btn-primary py-3 w-100 mb-4">Sign In</button>
                         <p class="text-center mb-0">Don't have an Account? <a href="signup.php">Sign Up</a></p>
                         </form>

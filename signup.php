@@ -70,15 +70,8 @@
                             <input name="reg4" type="text" class="form-control" id="floatingText" placeholder="jhondoe">
                             <label for="floatingText">UPI ID</label>
                         </div>
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <!--<div class="form-check">
-                                <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                            </div>-->
-                            <a href="">Forgot Password</a>
-                        </div>
                         <button name="submit1" type="submit" class="btn btn-primary py-3 w-100 mb-4">Sign Up</button>
-                        <p class="text-center mb-0">Already have an Account? <a href="signin.html">Sign In</a></p>
+                        <p class="text-center mb-0">Already have an Account? <a href="login.php">Sign In</a></p>
                     </div>
                 </div>
             </div>
