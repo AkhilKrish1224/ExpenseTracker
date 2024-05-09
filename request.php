@@ -67,10 +67,10 @@
                     </div>
                 </div> -->
                 <div class="navbar-nav w-100">
-                    <a href="goal.php" class="nav-item nav-link active"><i class="fa fa-tachometer-alt me-2"></i>Goal Planning</a>
+                    <a href="goal.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Goal Planning</a>
                     <a href="expense.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Expense Tracker</a>
                     <a href="budget.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Budget Planning</a>
-                    <a href="lend.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Money Lending</a>
+                    <a href="lend.php" class="nav-item nav-link active"><i class="fa fa-tachometer-alt me-2"></i>Money Lending</a>
                     <a href="split.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Expense Splitting</a>
                     <!-- <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"><i class="fa fa-laptop me-2"></i>Elements</a>
@@ -113,6 +113,7 @@
                     <input class="form-control bg-dark border-0" type="search" placeholder="Search">
                 </form> -->
                 <div class="navbar-nav align-items-center ms-auto">
+                    <small><a class="nav-link" href="#"><span id="account"><?= $_POST["hiddeninput"]; ?></span></a></small>
                     <!-- <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
                             <i class="fa fa-envelope me-lg-2"></i>

@@ -67,7 +67,7 @@
                     <a href="goal.php" class="nav-item nav-link active"><i class="fa fa-tachometer-alt me-2"></i>Goal Planning</a>
                     <a href="expense.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Expense Tracker</a>
                     <a href="budget.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Budget Planning</a>
-                    <a href="lend.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Money Lending</a>
+                    <a href="block\src\index.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Money Lending</a>
                     <a href="split.php" class="nav-item nav-link"><i class="fa fa-tachometer-alt me-2"></i>Expense Splitting</a>
                     <!-- <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"><i class="fa fa-laptop me-2"></i>Elements</a>
@@ -216,7 +216,7 @@
                                     placeholder="Tenure" name="Tenure" required>
                                 <label for="floatingTenure">Tenure</label>
                             </div>
-                            <button type="submit" class="btn btn-primary">Next</button>
+                            <button type="submit" class="btn btn-primary" style="background-color:blue;">Next</button>
                         </form>
                             <!-- <div class="form-floating mb-3">
                                 <select class="form-select" id="floatingSelect"
